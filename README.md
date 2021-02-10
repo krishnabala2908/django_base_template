@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# django_base_template
+dajngo base template with logging and debug toolbar modules for dev environment
+>>>>>>> e70c5fcceec696b149da7ebef423dcdf4eb2dde6
 #Django startup Template
 
 ##this project contains one app bythe name `core` which contains custom command `rename`.
