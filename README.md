@@ -1,4 +1,4 @@
-# django_base_template
+# Django startup Template
 
 django base template with logging and debug toolbar modules for dev environment
 
@@ -24,4 +24,5 @@ if you are using this project for development then edit manage.py file to point 
 ## .env file is also added for the configuration
 
 # TODO:
+
 1.write docker and docker compose files with nginx,gunicorn and postgresdb
