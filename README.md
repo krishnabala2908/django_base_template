@@ -1,3 +1,4 @@
+
 #Django startup Template
 
 ##this project contains one app bythe name `core` which contains custom command `rename`.
