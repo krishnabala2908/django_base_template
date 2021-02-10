@@ -1,0 +1,26 @@
+INFO 2021-02-10 15:06:58,366 autoreload 12725 140575228479296 Watching for file changes with StatReloader
+INFO 2021-02-10 15:07:05,267 basehttp 12725 140575116826368 "GET / HTTP/1.1" 200 10221
+INFO 2021-02-10 15:07:05,267 basehttp 12725 140575116826368 "GET / HTTP/1.1" 200 10221
+INFO 2021-02-10 15:07:07,157 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=HeadersPanel HTTP/1.1" 200 3482
+INFO 2021-02-10 15:07:07,157 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=HeadersPanel HTTP/1.1" 200 3482
+INFO 2021-02-10 15:07:07,911 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=TimerPanel HTTP/1.1" 200 1374
+INFO 2021-02-10 15:07:07,911 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=TimerPanel HTTP/1.1" 200 1374
+INFO 2021-02-10 15:07:08,738 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=CachePanel HTTP/1.1" 200 1348
+INFO 2021-02-10 15:07:08,738 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=CachePanel HTTP/1.1" 200 1348
+INFO 2021-02-10 15:07:09,616 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=LoggingPanel HTTP/1.1" 200 66
+INFO 2021-02-10 15:07:09,616 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=LoggingPanel HTTP/1.1" 200 66
+INFO 2021-02-10 15:13:15,746 autoreload 13242 140319726593856 Watching for file changes with StatReloader
+INFO 2021-02-10 15:13:16,785 views 13242 140319615465216 request is processing
+INFO 2021-02-10 15:13:16,785 views 13242 140319615465216 request is processing
+INFO 2021-02-10 15:13:16,840 basehttp 13242 140319615465216 "GET / HTTP/1.1" 200 10220
+INFO 2021-02-10 15:13:16,840 basehttp 13242 140319615465216 "GET / HTTP/1.1" 200 10220
+INFO 2021-02-10 15:13:39,332 autoreload 13242 140319726593856 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/core/views.py changed, reloading.
+INFO 2021-02-10 15:13:40,275 autoreload 13277 139625632958272 Watching for file changes with StatReloader
+INFO 2021-02-10 15:13:45,321 views 13277 139625521305344 request is processing
+INFO 2021-02-10 15:13:45,364 basehttp 13277 139625521305344 "GET / HTTP/1.1" 200 10220
+INFO 2021-02-10 15:13:45,364 basehttp 13277 139625521305344 "GET / HTTP/1.1" 200 10220
+INFO 2021-02-10 15:14:49,459 autoreload 13277 139625632958272 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/core/views.py changed, reloading.
+INFO 2021-02-10 15:14:50,466 autoreload 13363 139924081039168 Watching for file changes with StatReloader
+WARNING 2021-02-10 15:14:53,181 views 13363 139923969386240 request is processing
+INFO 2021-02-10 15:14:53,219 basehttp 13363 139923969386240 "GET / HTTP/1.1" 200 10220
+INFO 2021-02-10 15:14:53,219 basehttp 13363 139923969386240 "GET / HTTP/1.1" 200 10220

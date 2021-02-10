@@ -1,0 +1,59 @@
+INFO 2021-02-10 14:46:47,134 autoreload 11703 140335464941376 Watching for file changes with StatReloader
+INFO 2021-02-10 14:46:56,048 basehttp 11703 140335353288448 "GET / HTTP/1.1" 200 10221
+INFO 2021-02-10 14:46:56,083 basehttp 11703 140335353288448 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2021-02-10 14:46:56,100 basehttp 11703 140335353288448 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2021-02-10 14:46:56,135 basehttp 11703 140335353288448 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2021-02-10 14:46:56,158 basehttp 11703 140335343847168 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2021-02-10 14:48:17,623 autoreload 11703 140335464941376 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/myproject/settings/base.py changed, reloading.
+INFO 2021-02-10 14:48:18,346 autoreload 11848 140660659353408 Watching for file changes with StatReloader
+INFO 2021-02-10 14:57:02,921 autoreload 11848 140660659353408 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/myproject/settings/base.py changed, reloading.
+INFO 2021-02-10 14:57:03,523 autoreload 12188 140172894115648 Watching for file changes with StatReloader
+INFO 2021-02-10 14:57:19,043 basehttp 12188 140172782462720 "GET / HTTP/1.1" 200 10221
+INFO 2021-02-10 14:57:19,043 basehttp 12188 140172782462720 "GET / HTTP/1.1" 200 10221
+INFO 2021-02-10 14:57:23,208 basehttp 12188 140172782462720 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=RequestPanel HTTP/1.1" 200 961
+INFO 2021-02-10 14:57:23,208 basehttp 12188 140172782462720 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=RequestPanel HTTP/1.1" 200 961
+INFO 2021-02-10 14:57:25,404 basehttp 12188 140172782462720 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=StaticFilesPanel HTTP/1.1" 200 36610
+INFO 2021-02-10 14:57:25,404 basehttp 12188 140172782462720 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=StaticFilesPanel HTTP/1.1" 200 36610
+INFO 2021-02-10 14:57:28,301 basehttp 12188 140172782462720 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=TemplatesPanel HTTP/1.1" 200 3936
+INFO 2021-02-10 14:57:28,301 basehttp 12188 140172782462720 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=TemplatesPanel HTTP/1.1" 200 3936
+INFO 2021-02-10 14:57:47,639 autoreload 12188 140172894115648 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/myproject/settings/base.py changed, reloading.
+INFO 2021-02-10 14:57:48,309 autoreload 12259 139705430308672 Watching for file changes with StatReloader
+INFO 2021-02-10 14:57:57,166 basehttp 12259 139705318655744 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=CachePanel HTTP/1.1" 200 120
+INFO 2021-02-10 14:57:57,166 basehttp 12259 139705318655744 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=CachePanel HTTP/1.1" 200 120
+INFO 2021-02-10 14:58:00,789 basehttp 12259 139705318655744 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=SQLPanel HTTP/1.1" 200 120
+INFO 2021-02-10 14:58:00,789 basehttp 12259 139705318655744 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=SQLPanel HTTP/1.1" 200 120
+INFO 2021-02-10 14:58:01,781 basehttp 12259 139705318655744 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=HeadersPanel HTTP/1.1" 200 120
+INFO 2021-02-10 14:58:01,781 basehttp 12259 139705318655744 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=HeadersPanel HTTP/1.1" 200 120
+INFO 2021-02-10 14:58:03,279 basehttp 12259 139705318655744 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=SettingsPanel HTTP/1.1" 200 120
+INFO 2021-02-10 14:58:03,279 basehttp 12259 139705318655744 "GET /__debug__/render_panel/?store_id=1615140106ed4c73839f83e45f1a2e43&panel_id=SettingsPanel HTTP/1.1" 200 120
+INFO 2021-02-10 14:58:16,033 autoreload 12259 139705430308672 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/myproject/settings/base.py changed, reloading.
+INFO 2021-02-10 14:58:16,570 autoreload 12276 139797959780160 Watching for file changes with StatReloader
+INFO 2021-02-10 15:01:04,015 autoreload 12276 139797959780160 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/myproject/settings/base.py changed, reloading.
+INFO 2021-02-10 15:05:21,070 autoreload 12678 139801251665728 Watching for file changes with StatReloader
+INFO 2021-02-10 15:06:57,526 autoreload 12678 139801251665728 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/myproject/settings/base.py changed, reloading.
+INFO 2021-02-10 15:06:58,366 autoreload 12725 140575228479296 Watching for file changes with StatReloader
+INFO 2021-02-10 15:07:05,267 basehttp 12725 140575116826368 "GET / HTTP/1.1" 200 10221
+INFO 2021-02-10 15:07:05,267 basehttp 12725 140575116826368 "GET / HTTP/1.1" 200 10221
+INFO 2021-02-10 15:07:07,157 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=HeadersPanel HTTP/1.1" 200 3482
+INFO 2021-02-10 15:07:07,157 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=HeadersPanel HTTP/1.1" 200 3482
+INFO 2021-02-10 15:07:07,911 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=TimerPanel HTTP/1.1" 200 1374
+INFO 2021-02-10 15:07:07,911 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=TimerPanel HTTP/1.1" 200 1374
+INFO 2021-02-10 15:07:08,738 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=CachePanel HTTP/1.1" 200 1348
+INFO 2021-02-10 15:07:08,738 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=CachePanel HTTP/1.1" 200 1348
+INFO 2021-02-10 15:07:09,616 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=LoggingPanel HTTP/1.1" 200 66
+INFO 2021-02-10 15:07:09,616 basehttp 12725 140575116826368 "GET /__debug__/render_panel/?store_id=ffe5e33542e04595a82d08329dfd6d2a&panel_id=LoggingPanel HTTP/1.1" 200 66
+INFO 2021-02-10 15:13:15,746 autoreload 13242 140319726593856 Watching for file changes with StatReloader
+INFO 2021-02-10 15:13:16,785 views 13242 140319615465216 request is processing
+INFO 2021-02-10 15:13:16,785 views 13242 140319615465216 request is processing
+INFO 2021-02-10 15:13:16,840 basehttp 13242 140319615465216 "GET / HTTP/1.1" 200 10220
+INFO 2021-02-10 15:13:16,840 basehttp 13242 140319615465216 "GET / HTTP/1.1" 200 10220
+INFO 2021-02-10 15:13:39,332 autoreload 13242 140319726593856 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/core/views.py changed, reloading.
+INFO 2021-02-10 15:13:40,275 autoreload 13277 139625632958272 Watching for file changes with StatReloader
+INFO 2021-02-10 15:13:45,321 views 13277 139625521305344 request is processing
+INFO 2021-02-10 15:13:45,364 basehttp 13277 139625521305344 "GET / HTTP/1.1" 200 10220
+INFO 2021-02-10 15:13:45,364 basehttp 13277 139625521305344 "GET / HTTP/1.1" 200 10220
+INFO 2021-02-10 15:14:49,459 autoreload 13277 139625632958272 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/core/views.py changed, reloading.
+INFO 2021-02-10 15:14:50,466 autoreload 13363 139924081039168 Watching for file changes with StatReloader
+WARNING 2021-02-10 15:14:53,181 views 13363 139923969386240 request is processing
+INFO 2021-02-10 15:14:53,219 basehttp 13363 139923969386240 "GET / HTTP/1.1" 200 10220
+INFO 2021-02-10 15:14:53,219 basehttp 13363 139923969386240 "GET / HTTP/1.1" 200 10220
