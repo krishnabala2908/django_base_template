@@ -36,7 +36,7 @@ ROOT_URLCONF = 'src.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': [BASE_DIR / 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -88,13 +88,13 @@ USE_TZ = True
 
 # STATIC SETTINGS
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static_files')]
+STATIC_ROOT = BASE_DIR / 'static'
+STATICFILES_DIRS = [BASE_DIR / 'static_files']
 
 
 # MEDIA SETTINGS
 MEDIA_URL = '/media/'
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_ROOT = BASE_DIR / 'media'
 
 
 # EMAIL SETTINGS
@@ -132,31 +132,31 @@ LOGGING = {
         'filedebug': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': '../logs/debug.logs',
+            'filename': BASE_DIR / 'logs/debug.logs',
             'formatter': 'verbose',
         },
         'fileinfo': {
             'level': 'INFO',
             'class': 'logging.FileHandler',
-            'filename': '../logs/info.logs',
+            'filename': BASE_DIR / 'logs/info.logs',
             'formatter': 'verbose',
         },
         'filewarning': {
             'level': 'WARNING',
             'class': 'logging.FileHandler',
-            'filename': '../logs/warning.logs',
+            'filename': BASE_DIR / 'logs/warning.logs',
             'formatter': 'verbose',
         },
         'fileerror': {
             'level': 'ERROR',
             'class': 'logging.FileHandler',
-            'filename': '../logs/error.logs',
+            'filename': BASE_DIR / 'logs/error.logs',
             'formatter': 'verbose',
         },
         'filecritical': {
             'level': 'CRITICAL',
             'class': 'logging.FileHandler',
-            'filename': '../logs/critical.logs',
+            'filename': BASE_DIR / 'logs/critical.logs',
             'formatter': 'verbose',
         },
     },
