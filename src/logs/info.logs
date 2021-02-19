@@ -31,3 +31,10 @@ INFO 2021-02-12 17:35:15,565 basehttp 16067 139990291613440 "GET / HTTP/1.1" 200
 INFO 2021-02-12 17:35:15,565 basehttp 16067 139990291613440 "GET / HTTP/1.1" 200 10206
 INFO 2021-02-12 17:37:29,756 autoreload 16391 140188531103552 Watching for file changes with StatReloader
 INFO 2021-02-18 13:01:44,979 autoreload 20649 140318599128896 Watching for file changes with StatReloader
+INFO 2021-02-19 17:55:16,814 autoreload 5755 139686535518016 Watching for file changes with StatReloader
+INFO 2021-02-19 17:55:37,734 autoreload 5755 139686535518016 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/manage.py changed, reloading.
+INFO 2021-02-19 17:55:38,481 autoreload 5804 140284043036480 Watching for file changes with StatReloader
+INFO 2021-02-19 17:55:48,952 autoreload 5804 140284043036480 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/manage.py changed, reloading.
+INFO 2021-02-19 17:55:49,350 autoreload 5823 140052232419136 Watching for file changes with StatReloader
+INFO 2021-02-19 17:55:51,584 autoreload 5823 140052232419136 /home/krishna/Desktop/ProjectTemplates/Djangotemplate/src/manage.py changed, reloading.
+INFO 2021-02-19 17:55:52,360 autoreload 5838 140423400822592 Watching for file changes with StatReloader
